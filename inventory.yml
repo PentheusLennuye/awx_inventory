@@ -1,8 +1,7 @@
 ---
-api_endpoint: "{{ NETBOX_API }}"
+plugin: netbox.netbox.nb_inventory
 config_context: false
 group_by:
   - device_roles
   - platforms
-plugin: netbox.netbox.nb_inventory
 validate_certs: true
