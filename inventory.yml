@@ -4,4 +4,4 @@ config_context: false
 group_by:
   - device_roles
   - platforms
-validate_certs: true
+validate_certs: false
