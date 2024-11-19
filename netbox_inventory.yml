@@ -2,7 +2,7 @@
 plugin: netbox.netbox.nb_inventory
 config_context: false
 group_by:
-  - device_role
+  - device_roles
   - platforms
   - tags
 group_names_raw: true
