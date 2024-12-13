@@ -4,7 +4,6 @@ config_context: false
 group_by:
   - device_roles
   - platforms
-  - status
   - tags
 group_names_raw: true
 validate_certs: false
